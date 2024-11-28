@@ -140,6 +140,7 @@ an awesome list of free SaaS (software as a service) for you.
 
 - [Magnetic Engine](https://e.kuaishou.com/) - Kuaishou marketing platform, making brands more attractive
 - [Weimob](http://www.weimob.com/) - Smart business service provider
+- [Publish7](https://publish7.com/) - AI Agents for Ecommerce and Retail Digital Marketing
 
 ## Cost Control Reimbursement
 
