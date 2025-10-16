@@ -45,6 +45,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [midjourney](https://midjourney.com/) - where thousands collaborate to create new worlds, fantastic characters, and unique imagery from short text descriptions
 - [perplexity](https://www.perplexity.ai/) - Perplexity is your AI-powered Swiss Army Knife for information discovery and curiosity.
 - [openrouter](https://openrouter.ai/) - Free Model and Get API For Unlimited token free
+- [Open Deep Research](https://github.com/PuppyAgent/OpenDeepResearch) - Open Source Deep Research & Wide Research
 
 ## Prompt 
 - [FlowGPT](https://flowgpt.com/) - FlowGPT is empowering every prompter to learn and build their own AI and showcase them to the world
