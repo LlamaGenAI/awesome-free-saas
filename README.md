@@ -113,7 +113,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [ucloud](http://ucloud.cn/) - UCloud is a well-known neutral cloud computing service provider in China, focusing on providing reliable enterprise-level cloud services
 
 ## Data Analysis
-
+- [Open Deep Research](https://www.opendeepresearch.co/) - Open Source Deep Research & Wide Research 
 - [Sensors Data](https://www.sensorsdata.cn/) - Big Data Analysis and Marketing Technology Service Provider
 - [Baremetrics](https://baremetrics.com/) - Metrics, dunning, and engagement tools for SaaS & subscription businesses.
 - [GrowingIO](https://www.growingio.com/) - One-stop digital growth overall solution provider. Provide customer data platform (CDP), advertising analysis, product analysis, intelligent operation and other products and consulting services for product, operation, market, data teams and managers.
