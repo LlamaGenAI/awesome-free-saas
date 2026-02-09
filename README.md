@@ -150,6 +150,7 @@ an awesome list of free SaaS (software as a service) for you.
 
 - [Magnetic Engine](https://e.kuaishou.com/) - Kuaishou marketing platform, making brands more attractive
 - [Weimob](http://www.weimob.com/) - Smart business service provider
+- [Cobalt Studio Tools Hub](https://techchenko.github.io/cobaltstudio-products/tools/) - Free/no-signup micro-tools for founders & freelancers (cold email generator, landing page copy generator, SaaS launch checklist, etc.).
 
 ## Cost Control Reimbursement
 
