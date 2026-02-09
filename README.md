@@ -151,6 +151,9 @@ an awesome list of free SaaS (software as a service) for you.
 - [Magnetic Engine](https://e.kuaishou.com/) - Kuaishou marketing platform, making brands more attractive
 - [Weimob](http://www.weimob.com/) - Smart business service provider
 - [Cobalt Studio Tools Hub](https://techchenko.github.io/cobaltstudio-products/tools/) - Free/no-signup micro-tools for founders & freelancers (cold email generator, landing page copy generator, SaaS launch checklist, etc.).
+- [Cobalt Studio Templates Hub](https://techchenko.github.io/cobaltstudio-products/files/) - Free copy/paste templates (launch checklists, cold emails, onboarding/offboarding, contracts, proposals).
+- [Cold Email Generator](https://techchenko.github.io/cobaltstudio-products/tools/cold-email-generator/) - Generate 3 short cold emails + subject lines (no signup).
+- [Landing Page Copy Generator](https://techchenko.github.io/cobaltstudio-products/tools/landing-page-copy-generator/) - Generate hero copy, benefits, FAQ, and CTA sections for your landing page.
 
 ## Cost Control Reimbursement
 
