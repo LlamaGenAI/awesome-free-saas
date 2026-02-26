@@ -235,7 +235,7 @@ an awesome list of free SaaS (software as a service) for you.
 
 
 ## E-signature
-- [Gatherly](https://gatherly.app) - E-signature and client intake platform for professional services. Send document requests and eIDAS-qualified signatures via secure portal links with automated reminders.
+- [Gatherly](https://gatherly.shop) - E-signature and client intake platform for professional services. Send document requests and eIDAS-qualified signatures via secure portal links with automated reminders.
 - [Ugosign](https://ugosign.com) - Seal your deals faster and more securely with Ugosign — your ultimate online e-signature solution for a seamless, paperless future.
 
 ## Integration Payment
