@@ -150,6 +150,7 @@ an awesome list of free SaaS (software as a service) for you.
 
 - [Magnetic Engine](https://e.kuaishou.com/) - Kuaishou marketing platform, making brands more attractive
 - [Weimob](http://www.weimob.com/) - Smart business service provider
+- [GEOScore](https://geoscoreai.com/) - Free AI search visibility scanner checking 11 GEO signals including robots.txt, llms.txt, structured data, and citation readiness. Includes free AI Robots.txt Generator and AI Crawler Access Checker.
 
 ## Cost Control Reimbursement
 
