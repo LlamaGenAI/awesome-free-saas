@@ -208,6 +208,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Enterprise WeChat](https://work.weixin.qq.com/) - Let every enterprise have its own WeChat
 - [Cloud Home](http://www.yunzhijia.com/home/) - A new generation of intelligent collaborative cloud to help enterprises reconstruct digital combat effectiveness
 - [Feishu](https://feishu.cn/) - In Feishu, enjoy high efficiency
+- [HeyRobyn](https://heyrobyn.ai) - Native Mac unified inbox for email, Slack, and GitHub in one window
 - [Mingdao](https://www.mingdao.com/) - APass platform, 0 code
 
 ## Developer Service
