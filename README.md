@@ -149,6 +149,7 @@ an awesome list of free SaaS (software as a service) for you.
 ## Marketing
 
 - [Magnetic Engine](https://e.kuaishou.com/) - Kuaishou marketing platform, making brands more attractive
+- [SocialBu](https://socialbu.com/) - AI-powered social media management platform for scheduling, publishing, monitoring, and automating across multiple platforms
 - [Weimob](http://www.weimob.com/) - Smart business service provider
 
 ## Cost Control Reimbursement
