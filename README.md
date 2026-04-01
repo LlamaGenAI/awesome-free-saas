@@ -211,6 +211,14 @@ an awesome list of free SaaS (software as a service) for you.
 - [Mingdao](https://www.mingdao.com/) - APass platform, 0 code
 
 ## Developer Service
+- [FreeKit](https://freekit.dev) - Free instant HTML hosting API with Azure Blob Storage, no API key required
+- [Faktuj](https://faktuj.pl) - Free Polish VAT invoice generator with PDF export
+- [LinkMeta](https://linkmeta.dev) - Free URL metadata extraction API for titles, descriptions, and Open Graph tags
+- [LinkShrink](https://linkshrink.dev) - Free privacy-first URL shortener API, no tracking or API keys
+- [OGForge](https://ogforge.dev) - Free Open Graph image generator API for social media previews
+- [PageShot](https://pageshot.site) - Free screenshot and webpage capture API powered by Playwright
+- [PDFSpark](https://pdfspark.dev) - Free HTML/URL to PDF conversion API built with Playwright
+- [QRMint](https://qrmint.dev) - Free styled QR code generator and API with customizable colors and logos
 
 ## Form
 
