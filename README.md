@@ -47,6 +47,8 @@ an awesome list of free SaaS (software as a service) for you.
 - [openrouter](https://openrouter.ai/) - Free Model and Get API For Unlimited token free
 - [Open Deep Research](https://github.com/PuppyAgent/OpenDeepResearch) - Open Source Deep Research & Wide Research
 - [VisaCanvas](https://visacanvas.com/) - Free AI-powered EB1A/NIW immigration eligibility assessment with 10-criteria analysis
+- [Notah.ai](https://notah.ai) - AI-powered meeting notes, transcription, and action items, an AI Executive Assistant.
+
 
 ## Prompt 
 - [FlowGPT](https://flowgpt.com/) - FlowGPT is empowering every prompter to learn and build their own AI and showcase them to the world
@@ -156,7 +158,8 @@ an awesome list of free SaaS (software as a service) for you.
 
 - [Ekuaibao](https://www.ekuaibao.com/) - Agile enterprise reimbursement cost control and aggregate consumption platform
 - [Fenbeitong](https://www.fenbeitong.com/) - Enterprise Payment - Reimbursement Management Software - Travel Expense Reimbursement System
-
+- [InvoiceFlow](https://www.invoiceflow.cc/) - Simple invoicing and billing SaaS with a free forever plan (no credit card), suitable for freelancers and small teams.
+- 
 ## Low & No Code Platform
 
 - [Airtable](https://airtable.com/) - Low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes.
@@ -255,6 +258,7 @@ an awesome list of free SaaS (software as a service) for you.
 
 ## Automation
 - [automate](https://automate.io/) Connect your cloud apps. Automate work.
+- [TaleForge](https://www.tale-forge.com/) - Free creative writing platform with book, manga/webtoon, and screenplay editors. Next.js, Prisma, Stripe, PWA.
 
 
 # License
