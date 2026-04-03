@@ -141,6 +141,7 @@ an awesome list of free SaaS (software as a service) for you.
 ## Project & Team Management
 
 - [AFFiNE](http://affine.pro/) -AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+- [HeyRobyn](https://heyrobyn.ai/) - Native Mac unified inbox for email, Slack, and GitHub. Privacy-first, on-device, SwiftUI app.
 - [monday](https://monday.com/) - Work the way that works for you
 - [Qingque Collaboration](https://qingque.cn/) - Serving the new generation of knowledge workers, project management software
 - [asana](https://asana.com/) - Teams don't lose track of work with Asana
