@@ -46,6 +46,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [perplexity](https://www.perplexity.ai/) - Perplexity is your AI-powered Swiss Army Knife for information discovery and curiosity.
 - [openrouter](https://openrouter.ai/) - Free Model and Get API For Unlimited token free
 - [Open Deep Research](https://github.com/PuppyAgent/OpenDeepResearch) - Open Source Deep Research & Wide Research
+- [Notah.ai](https://notah.ai) - AI-powered meeting notes, transcription, and action items, an AI Executive Assistant.
 
 ## Prompt 
 - [FlowGPT](https://flowgpt.com/) - FlowGPT is empowering every prompter to learn and build their own AI and showcase them to the world
