@@ -254,6 +254,7 @@ an awesome list of free SaaS (software as a service) for you.
 
 ## Automation
 - [automate](https://automate.io/) Connect your cloud apps. Automate work.
+- [TaleForge](https://www.tale-forge.com/) - Free creative writing platform with book, manga/webtoon, and screenplay editors. Next.js, Prisma, Stripe, PWA.
 
 
 # License
