@@ -38,6 +38,7 @@ an awesome list of free SaaS (software as a service) for you.
   - [Integration Payment](#Integration-Payment)
   - [Corporate Training](#corporate-training)
   - [Automation](#automation)
+  - [Scheduling](#scheduling)
   - [License](#license)
   
 ## AI
@@ -268,6 +269,10 @@ an awesome list of free SaaS (software as a service) for you.
 - [automate](https://automate.io/) Connect your cloud apps. Automate work.
 - [TaleForge](https://www.tale-forge.com/) - Free creative writing platform with book, manga/webtoon, and screenplay editors. Next.js, Prisma, Stripe, PWA.
 
+## Scheduling
+- [AreYouFree](https://areyoufree.uk/) - Free group scheduling polls and booking pages, no sign-up required
+- [When2meet](https://www.when2meet.com/) - Free drag-to-select availability grid for finding group meeting times
+- [Rallly](https://rallly.co/) - Open-source scheduling tool for finding the best date for group meetings
 
 # License
 
