@@ -292,3 +292,4 @@ an awesome list of free SaaS (software as a service) for you.
 [MIT](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2013-present, zhangchi
+| [TaleForge](https://www.tale-forge.com) | Creative writing platform with book, manga, and screenplay editors | Free | PWA, Marketplace |
