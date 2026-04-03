@@ -156,7 +156,8 @@ an awesome list of free SaaS (software as a service) for you.
 
 - [Ekuaibao](https://www.ekuaibao.com/) - Agile enterprise reimbursement cost control and aggregate consumption platform
 - [Fenbeitong](https://www.fenbeitong.com/) - Enterprise Payment - Reimbursement Management Software - Travel Expense Reimbursement System
-
+- [InvoiceFlow](https://www.invoiceflow.cc/) - Simple invoicing and billing SaaS with a free forever plan (no credit card), suitable for freelancers and small teams.
+- 
 ## Low & No Code Platform
 
 - [Airtable](https://airtable.com/) - Low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes.
