@@ -195,6 +195,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Disqus](https://disqus.com/) - Disqus offers the best add-on tools for websites to increase engagement. We help publishers power online discussions with comments and earn revenue with native advertising.
 
 ## CMS & Website
+- [JustBlogged](https://justblogged.com/) - A no-setup blogging platform. Start your blog in 2 minutes. Free forever, $9/mo Pro with custom domains, themes, and built-in SEO.
 
 - [Webflow](https://webflow.com/) - Empowers designers to build professional, custom websites in a completely visual canvas.
 - [PageGuard](https://pageguard.org) - Free all-in-one website health scanner. Checks SEO, performance (Core Web Vitals), accessibility (WCAG 2.1), and best practices. AI-powered fix suggestions. No signup required.
