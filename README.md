@@ -102,6 +102,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Beisen Cloud](https://www.beisen.com/) - Integrated HR SaaS and talent management platform
 - [MokaHR](http://mokahr.com/) - Make technology more humane, make recruitment more intelligent, and an intelligent recruitment management system that HR prefers to use
 - [Qingque Interview](https://interview.qingque.cn/) - Qingque Interview carries the best practices in Kuaishou's online interview process and provides organizations with a set of stable and easy-to-use online interview tools.
+- [Brighten](https://hellobrighten.com/) - AI-powered employee recognition and onboarding platform for small businesses. Features AI-generated recognition suggestions, peer-to-peer kudos, and automated onboarding checklists. Free tier available.
 
 
 ## Video Conference
