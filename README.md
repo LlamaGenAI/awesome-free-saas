@@ -235,6 +235,10 @@ an awesome list of free SaaS (software as a service) for you.
 - [PageShot](https://pageshot.site) - Free screenshot and webpage capture API powered by Playwright
 - [PDFSpark](https://pdfspark.dev) - Free HTML/URL to PDF conversion API built with Playwright
 - [QRMint](https://qrmint.dev) - Free styled QR code generator and API with customizable colors and logos
+- [JSONFix](https://jsonfix-lake.vercel.app) - Free AI-powered JSON repair tool that fixes broken JSON with missing quotes, trailing commas, and syntax errors
+- [CronAI](https://cronai-nu.vercel.app) - Free plain English to cron expression converter powered by AI
+- [RegexAI](https://regexai-six.vercel.app) - Free AI regex generator — describe patterns in plain English and get working regex
+- [DevTools Hub](https://devtools-rose-kappa.vercel.app) - Free collection of 15+ developer utilities: JSON formatter, Base64, JWT decoder, hash generator, and more
 
 ## Form
 
