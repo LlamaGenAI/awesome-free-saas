@@ -98,6 +98,7 @@ an awesome list of free SaaS (software as a service) for you.
 ## CRM
 
 - [Fanxiang Sales](http://fxiaoke.com/) - CRM SaaS, Connected CRM Quality Service Provider
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine. Source 450M+ contacts, run email and LinkedIn campaigns, manage conversations. JSON output, agent-native. Install via `npm i -g overloop-cli`.
 - [Sales Easy](https://www.xiaoshouyi.com/) - CRM SaaS
 - [zoho](https://www.zoho.com/one/) - Unique and powerful suite of software to run your entire business
 
@@ -159,6 +160,7 @@ an awesome list of free SaaS (software as a service) for you.
 ## Marketing
 
 - [Magnetic Engine](https://e.kuaishou.com/) - Kuaishou marketing platform, making brands more attractive
+- [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring for sales teams. Track LinkedIn engagers, keyword posters, job changers, and funding events. JSON output. Install via `npm i -g signals-sortlist-cli`.
 - [SocialBu](https://socialbu.com/) - AI-powered social media management platform for scheduling, publishing, monitoring, and automating across multiple platforms
 - [Weimob](http://www.weimob.com/) - Smart business service provider
 - [GEOScore](https://geoscoreai.com/) - Free AI search visibility scanner checking 11 GEO signals including robots.txt, llms.txt, structured data, and citation readiness. Includes free AI Robots.txt Generator and AI Crawler Access Checker.
