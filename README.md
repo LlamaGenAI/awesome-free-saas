@@ -162,6 +162,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [SocialBu](https://socialbu.com/) - AI-powered social media management platform for scheduling, publishing, monitoring, and automating across multiple platforms
 - [Weimob](http://www.weimob.com/) - Smart business service provider
 - [GEOScore](https://geoscoreai.com/) - Free AI search visibility scanner checking 11 GEO signals including robots.txt, llms.txt, structured data, and citation readiness. Includes free AI Robots.txt Generator and AI Crawler Access Checker.
+- [BulkPublish](https://www.bulkpublish.com/) - Social media publishing API for 11 platforms with scheduling, analytics, and AI agent support. Free tier includes 5 channels, 30 scheduled posts, and 100 API calls/day. Python & Node.js SDKs available.
 
 ## Cost Control Reimbursement
 
