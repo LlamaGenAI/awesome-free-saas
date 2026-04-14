@@ -179,6 +179,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Fenxiang Xiaoke PaaS](https://www.fxiaoke.com/ap/plat-Paas/) - Paas platform capability support, easily meet the needs of enterprises for differentiated business customization
 - [WeDa](https://cloud.tencent.com/product/weda) - Tencent Cloud WeDa, a low-code WeDa, supports rapid construction of various applications including WeChat applets
 - [Echuandan](https://twitter.com/EchuandanHQ) - The earliest H5 electronic leaflet making and sharing platform in China, centering on online H5 applets and slideshow making tools
+- [CodeZero](https://codezero.build) - Build scalable no-code automations with CodeZero. From logistics to custom chatbots, manage complex workflows with total data sovereignty. Everything open source.
 
 
 
