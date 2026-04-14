@@ -117,6 +117,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Zoom](zoom.us) - modern enterprise video communications
 - [Qingque Meeting](https://www.qingque.cn/meet/) - out-of-the-box cloud meeting, dedicated to providing services for a new generation of knowledge workers, helping individuals and teams improve collaboration efficiency and greatly liberating productive forces.
 - [Cloud Communication](https://www.263.net/) - Video Conference
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## Cloud Services
 
