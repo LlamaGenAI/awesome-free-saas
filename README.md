@@ -46,6 +46,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [LlamaGen.Ai](https://llamagen.ai/) - LlamaGen.Ai is an ultimate AI-Driven ACG Tool, Create Anime Art Online for Free and Collaborate in a Global Anime Art Community.
 - [midjourney](https://midjourney.com/) - where thousands collaborate to create new worlds, fantastic characters, and unique imagery from short text descriptions
 - [Woopicx](https://woopicx.com/) - AI-powered image search engine with 100,000+ free icons, illustrations, and 3D assets across 80+ categories.
+- [igly.ai](https://igly.ai/) - Free AI image editing platform for background removal, inpainting, upscaling, and generative fill. Perfect for product photography and e-commerce. [Demo](https://www.youtube.com/watch?v=HB2E1WZ12is)
 - [perplexity](https://www.perplexity.ai/) - Perplexity is your AI-powered Swiss Army Knife for information discovery and curiosity.
 - [openrouter](https://openrouter.ai/) - Free Model and Get API For Unlimited token free
 - [Open Deep Research](https://github.com/PuppyAgent/OpenDeepResearch) - Open Source Deep Research & Wide Research
