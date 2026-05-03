@@ -236,6 +236,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [PageShot](https://pageshot.site) - Free screenshot and webpage capture API powered by Playwright
 - [PDFSpark](https://pdfspark.dev) - Free HTML/URL to PDF conversion API built with Playwright
 - [QRMint](https://qrmint.dev) - Free styled QR code generator and API with customizable colors and logos
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose web utilities, all browser-based, no signup. Includes domain name generator, OG image generator, AI background remover (runs locally), favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator (EU AI Act compliant), and AI robots.txt generator. Open source.
 
 ## Form
 
