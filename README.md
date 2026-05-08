@@ -122,6 +122,7 @@ an awesome list of free SaaS (software as a service) for you.
 ## Cloud Services
 
 - [ucloud](http://ucloud.cn/) - UCloud is a well-known neutral cloud computing service provider in China, focusing on providing reliable enterprise-level cloud services
+- [DeployBase](https://deploybase.io/) - Managed cloud hosting platform for Docker containers. Deploy WordPress, Laravel, Node.js apps with automatic SSL, backups, and scaling.
 
 ## Data Analysis
 - [Open Deep Research](https://github.com/PuppyAgent/OpenDeepResearch) - Open Source Deep Research & Wide Research 
