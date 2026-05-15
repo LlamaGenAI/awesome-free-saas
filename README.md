@@ -98,10 +98,10 @@ an awesome list of free SaaS (software as a service) for you.
 
 ## CRM
 
+- [AceWatt](https://acewatt.com) - AI-powered CRM built for electrical contractors — voice job-walk notes, AI estimating, scheduling, invoicing, and automated follow-up; free trial available.
 - [Fanxiang Sales](http://fxiaoke.com/) - CRM SaaS, Connected CRM Quality Service Provider
 - [Sales Easy](https://www.xiaoshouyi.com/) - CRM SaaS
 - [zoho](https://www.zoho.com/one/) - Unique and powerful suite of software to run your entire business
-
 
 ## HR
 
