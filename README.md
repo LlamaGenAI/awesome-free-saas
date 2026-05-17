@@ -111,6 +111,9 @@ an awesome list of free SaaS (software as a service) for you.
 - [Qingque Interview](https://interview.qingque.cn/) - Qingque Interview carries the best practices in Kuaishou's online interview process and provides organizations with a set of stable and easy-to-use online interview tools.
 - [Brighten](https://hellobrighten.com/) - AI-powered employee recognition and onboarding platform for small businesses. Features AI-generated recognition suggestions, peer-to-peer kudos, and automated onboarding checklists. Free tier available.
 
+## Digital Credentials
+
+- [Badges Ninja](https://badges.ninja/) — A simple platform to create, issue, and verify blockchain-certified digital badges and credentials.
 
 ## Video Conference
 
