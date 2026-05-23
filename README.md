@@ -236,6 +236,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [PageShot](https://pageshot.site) - Free screenshot and webpage capture API powered by Playwright
 - [PDFSpark](https://pdfspark.dev) - Free HTML/URL to PDF conversion API built with Playwright
 - [QRMint](https://qrmint.dev) - Free styled QR code generator and API with customizable colors and logos
+- [IPASIS](https://ipasis.com) - Free bot detection and fraud prevention API with IP reputation, email validation, and interaction trust scoring. 100 requests/day free tier
 
 ## Form
 
