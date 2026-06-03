@@ -5,6 +5,7 @@ an awesome list of free SaaS (software as a service) for you.
 ![](https://visitor-badge.glitch.me/badge?page_id=fancylife.awesome-free-saas)
 
 # Contents
+  - [Developer Tools](#developer-tools)
   - [AI](#ai)
   - [Prompt](#prompt)
   - [Canvas](#canvas)
@@ -41,6 +42,11 @@ an awesome list of free SaaS (software as a service) for you.
   - [Scheduling](#scheduling)
   - [License](#license)
   
+## Developer Tools
+
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose web utilities, all browser-based, no signup required. Includes domain name generator, OG image generator, AI background remover (runs locally), favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, AI content disclosure generator (EU AI Act compliant), and AI robots.txt generator. Open source.
+
+
 ## AI
 - [ChatGPT](https://chat.openai.com/) - ChatGPT is a free-to-use AI system
 - [LlamaGen.Ai](https://llamagen.ai/) - LlamaGen.Ai is an ultimate AI-Driven ACG Tool, Create Anime Art Online for Free and Collaborate in a Global Anime Art Community.
