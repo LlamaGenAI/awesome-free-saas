@@ -18,6 +18,7 @@ an awesome list of free SaaS (software as a service) for you.
   - [Feature Flags](#feature-flags)
   - [Project & Team Management](#project--team-management)
   - [Marketing](#marketing)
+  - [E-commerce](#e-commerce)
   - [Cost Control Reimbursement](#cost-control-reimbursement)
   - [Low & No Code Platform](#low--no-code-platform)
   - [VR](#vr)
@@ -163,6 +164,10 @@ an awesome list of free SaaS (software as a service) for you.
 - [SocialBu](https://socialbu.com/) - AI-powered social media management platform for scheduling, publishing, monitoring, and automating across multiple platforms
 - [Weimob](http://www.weimob.com/) - Smart business service provider
 - [GEOScore](https://geoscoreai.com/) - Free AI search visibility scanner checking 11 GEO signals including robots.txt, llms.txt, structured data, and citation readiness. Includes free AI Robots.txt Generator and AI Crawler Access Checker.
+
+## E-commerce
+
+- [AMZ Seller Tools](https://www.amzsellerstools.com/en) - Free browser-based FBA fee, profit, storage, removal, target-cost, and seller utility tools; no signup required.
 
 ## Cost Control Reimbursement
 
