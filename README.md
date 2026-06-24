@@ -197,6 +197,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Disqus](https://disqus.com/) - Disqus offers the best add-on tools for websites to increase engagement. We help publishers power online discussions with comments and earn revenue with native advertising.
 
 ## CMS & Website
+- [UnfoldCMS](https://unfoldcms.com) - Self-hosted CMS built on Laravel 12 + React 19. REST API v1, HMAC webhooks, headless mode (Next.js, Astro, SvelteKit, Nuxt). Free to self-host. ([Source Code](https://github.com/hpakdaman/unfoldcms))
 - [JustBlogged](https://justblogged.com/) - A no-setup blogging platform. Start your blog in 2 minutes. Free forever, $9/mo Pro with custom domains, themes, and built-in SEO.
 
 - [Webflow](https://webflow.com/) - Empowers designers to build professional, custom websites in a completely visual canvas.
