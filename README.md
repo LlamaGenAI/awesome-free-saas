@@ -82,6 +82,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Evernote](https://yinxiang.com/) - Make life more orderly, work more efficient, and collaborate more conveniently
 - [evernote](evernote.com/) - a powerful tool that can help executives, entrepreneurs and creative people capture and arrange their ideas.
 - [Dataku](https://dataku.ai) - Transform Unstructured doc To Structured Data.
+- [DokuTrak](https://dokutrak.com) - Secure magic-link document collection with AI-powered validation and automatic reminders for missing client files.
 
 ## Design
 
