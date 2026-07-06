@@ -82,6 +82,8 @@ an awesome list of free SaaS (software as a service) for you.
 - [Evernote](https://yinxiang.com/) - Make life more orderly, work more efficient, and collaborate more conveniently
 - [evernote](evernote.com/) - a powerful tool that can help executives, entrepreneurs and creative people capture and arrange their ideas.
 - [Dataku](https://dataku.ai) - Transform Unstructured doc To Structured Data.
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 
 ## Design
 
