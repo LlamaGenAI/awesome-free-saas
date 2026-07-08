@@ -98,10 +98,28 @@ an awesome list of free SaaS (software as a service) for you.
 
 ## CRM
 
+## Customer Support & Live Chat
+
+| Name | Description |
+| --- | --- |
+| [Knocket](https://trtc.io/solutions/knocket) | Free-forever live chat widget + shareable contact page + unified Telegram/Email inbox. One line of code, no seat limits. |
+
 - [Fanxiang Sales](http://fxiaoke.com/) - CRM SaaS, Connected CRM Quality Service Provider
 - [Sales Easy](https://www.xiaoshouyi.com/) - CRM SaaS
 - [zoho](https://www.zoho.com/one/) - Unique and powerful suite of software to run your entire business
 
+## Customer Support & Live Chat
+
+| Name | Description |
+| --- | --- |
+| [Knocket](https://trtc.io/solutions/knocket) | Free-forever live chat widget + shareable contact page + unified Telegram/Email inbox. One line of code, no seat limits. |
+
+
+## Customer Support & Live Chat
+
+| Name | Description |
+| --- | --- |
+| [Knocket](https://trtc.io/solutions/knocket) | Free-forever live chat widget + shareable contact page + unified Telegram/Email inbox. One line of code, no seat limits. |
 
 ## HR
 
