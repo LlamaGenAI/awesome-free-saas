@@ -127,6 +127,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Open Deep Research](https://github.com/PuppyAgent/OpenDeepResearch) - Open Source Deep Research & Wide Research 
 - [Sensors Data](https://www.sensorsdata.cn/) - Big Data Analysis and Marketing Technology Service Provider
 - [Baremetrics](https://baremetrics.com/) - Metrics, dunning, and engagement tools for SaaS & subscription businesses.
+- [SaaS Metrics Calculator](https://nutilz.com/saas-metrics-calculator) - Free browser-only calculator for LTV, CAC, LTV:CAC ratio, CAC payback period, MRR, ARR, churn rate, NRR and Rule of 40, with benchmark guidance. No sign-up.
 - [GrowingIO](https://www.growingio.com/) - One-stop digital growth overall solution provider. Provide customer data platform (CDP), advertising analysis, product analysis, intelligent operation and other products and consulting services for product, operation, market, data teams and managers.
 - [BDP](https://me.bdp.cn/home.html) - Data analysis platform.
 - - [Crawlbase](https://crawlbase.com/) - Crawlbase: Unleash the power of intelligent web crawling. Seamlessly extract, analyze, and organize data for informed decision-making. Your gateway to efficient and precise web scraping. Enjoy you frist 1000 free requests
