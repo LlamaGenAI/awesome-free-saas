@@ -191,6 +191,7 @@ an awesome list of free SaaS (software as a service) for you.
 
 - [Codepen](https://codepen.io/) - An online code editor, learning environment, and community for front-end web development using HTML, CSS and JavaScript code snippets, projects, and web applications.
 - [OnlineInterview.io](https://onlineinterview.io/) - A free online interview platform with a shared code editor, drawing board and video chat. There are multiple programming languages available and you can run the code in the browser.
+- [Cloud Clipboard (cv.cm)](https://cv.cm) - Free no-login cloud clipboard for sharing text and files via ultra-short links; also offers free-tier AI video and image generation.
 
 ## Discussion
 
