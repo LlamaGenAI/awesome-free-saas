@@ -52,6 +52,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [VisaCanvas](https://visacanvas.com/) - Free AI-powered EB1A/NIW immigration eligibility assessment with 10-criteria analysis
 - [Notah.ai](https://notah.ai) - AI-powered meeting notes, transcription, and action items, an AI Executive Assistant.
 - [Puppyone](https://www.puppyone.ai) - Free cloud file system built for AI agents. Native MCP, file-level security, version history, 15+ OAuth connectors (Notion/GitHub/Drive/Linear). No credit card required. Open source (Apache 2.0) with Docker self-host option.
+- [MonkeyEatingMango](https://monkeyeatingmango.com/) - Free AI travel itinerary generator. Answer 8 tap questions, get a personalized day-by-day itinerary with food guide and budget breakdown in about 2 minutes. No signup required.
 
 
 ## Prompt 
