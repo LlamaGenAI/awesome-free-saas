@@ -256,6 +256,9 @@ an awesome list of free SaaS (software as a service) for you.
 - [PowerBI](https://powerbi.microsoft.com/zh-cn/) - Connect to and visualize any data using the unified, scalable platform for self-service and enterprise business intelligence (BI) that's easy to use and helps you gain deeper data insight
 - [Qlikview](https://www.qlik.com/) -Turn raw data into remarkable outcomes with end-to-end, multi-cloud data integration and analytics solutions. Close the gaps between data, insights, and action.
 
+## Finance & Business Calculators
+- [SmartBizCalc](https://smartbizcalc.com/) - 400+ free small business financial calculators covering payroll tax, break-even analysis, S-corp savings, startup costs, business insurance, contractor pricing, and more. No sign-up required.
+
 ## Restaurants
 
 ## Training and Physical Evolution
