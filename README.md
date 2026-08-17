@@ -52,6 +52,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [VisaCanvas](https://visacanvas.com/) - Free AI-powered EB1A/NIW immigration eligibility assessment with 10-criteria analysis
 - [Notah.ai](https://notah.ai) - AI-powered meeting notes, transcription, and action items, an AI Executive Assistant.
 - [Puppyone](https://www.puppyone.ai) - Free cloud file system built for AI agents. Native MCP, file-level security, version history, 15+ OAuth connectors (Notion/GitHub/Drive/Linear). No credit card required. Open source (Apache 2.0) with Docker self-host option.
+- [Xenition](https://xenition.com) - One AI workspace covering 23 editing surfaces - documents, spreadsheets, slides, design, code and research - all driven from a single chat, with shared memory and a common asset library between them. Free tier gives 25,000 credits every month, no credit card required.
 
 
 ## Prompt 
