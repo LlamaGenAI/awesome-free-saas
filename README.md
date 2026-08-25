@@ -230,7 +230,7 @@ an awesome list of free SaaS (software as a service) for you.
 ## Developer Service
 - [FreeKit](https://freekit.dev) - Free instant HTML hosting API with Azure Blob Storage, no API key required
 - [Faktuj](https://faktuj.pl) - Free Polish VAT invoice generator with PDF export
-- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Free browser invoice and receipt generator with print-to-PDF, no account
+- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Free browser invoice and receipt generator with print-to-PDF, no account. [Commercial license (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-free-saas-v1) adds white-label PDFs, 6 templates, unlimited batch CLI.
 - [LinkMeta](https://linkmeta.dev) - Free URL metadata extraction API for titles, descriptions, and Open Graph tags
 - [LinkShrink](https://linkshrink.dev) - Free privacy-first URL shortener API, no tracking or API keys
 - [OGForge](https://ogforge.dev) - Free Open Graph image generator API for social media previews
