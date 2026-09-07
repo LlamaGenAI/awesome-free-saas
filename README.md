@@ -228,6 +228,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Mingdao](https://www.mingdao.com/) - APass platform, 0 code
 
 ## Developer Service
+- [Vacato](https://vacato.io/) - Free RDAP domain watchlist: scheduled checks + Telegram/email when status looks available; Free 10 domains; not a drop-catcher.
 - [FreeKit](https://freekit.dev) - Free instant HTML hosting API with Azure Blob Storage, no API key required
 - [Faktuj](https://faktuj.pl) - Free Polish VAT invoice generator with PDF export
 - [LinkMeta](https://linkmeta.dev) - Free URL metadata extraction API for titles, descriptions, and Open Graph tags
