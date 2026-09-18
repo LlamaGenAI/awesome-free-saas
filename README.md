@@ -101,6 +101,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Fanxiang Sales](http://fxiaoke.com/) - CRM SaaS, Connected CRM Quality Service Provider
 - [Sales Easy](https://www.xiaoshouyi.com/) - CRM SaaS
 - [zoho](https://www.zoho.com/one/) - Unique and powerful suite of software to run your entire business
+- [BusinessOS](https://businessos.biz) - Encrypted, offline-first invoicing, expenses, and cash flow forecasting. Voice-to-invoice in 3 seconds, WhatsApp send. Free during limited early access.
 
 
 ## HR
