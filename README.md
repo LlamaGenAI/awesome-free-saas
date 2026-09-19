@@ -163,6 +163,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [SocialBu](https://socialbu.com/) - AI-powered social media management platform for scheduling, publishing, monitoring, and automating across multiple platforms
 - [Weimob](http://www.weimob.com/) - Smart business service provider
 - [GEOScore](https://geoscoreai.com/) - Free AI search visibility scanner checking 11 GEO signals including robots.txt, llms.txt, structured data, and citation readiness. Includes free AI Robots.txt Generator and AI Crawler Access Checker.
+- [Stripo](https://stripo.email) - Email design platform with a free plan; 1,690+ templates, export to 90+ ESPs
 
 ## Cost Control Reimbursement
 
