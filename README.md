@@ -98,6 +98,7 @@ an awesome list of free SaaS (software as a service) for you.
 
 ## CRM
 
+- [CRMlead](https://crmlead.io/?lang=en) - Lead-focused CRM for small businesses: drag-and-drop pipeline, daily next actions, email sync, online booking. Free up to 50 leads, no time limit.
 - [Fanxiang Sales](http://fxiaoke.com/) - CRM SaaS, Connected CRM Quality Service Provider
 - [Sales Easy](https://www.xiaoshouyi.com/) - CRM SaaS
 - [zoho](https://www.zoho.com/one/) - Unique and powerful suite of software to run your entire business
