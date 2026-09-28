@@ -201,6 +201,7 @@ an awesome list of free SaaS (software as a service) for you.
 
 - [Webflow](https://webflow.com/) - Empowers designers to build professional, custom websites in a completely visual canvas.
 - [PageGuard](https://pageguard.org) - Free all-in-one website health scanner. Checks SEO, performance (Core Web Vitals), accessibility (WCAG 2.1), and best practices. AI-powered fix suggestions. No signup required.
+- [TrustYourWebsite](https://trustyourwebsite.com/eu/en) - Free compliance scan for European small-business websites: checks cookies, consent banner, legal pages and WCAG accessibility (axe-core) against each country's own rules, such as the German Impressum and UK PECR. Returns a risk score and issue counts, no signup required.
 
 ## Log Analysis
 
