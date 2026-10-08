@@ -285,6 +285,7 @@ an awesome list of free SaaS (software as a service) for you.
 
 ## Scheduling
 - [AreYouFree](https://areyoufree.uk/) - Free group scheduling polls and booking pages, no sign-up required
+- [OpenCal](https://opencal.link/) - OpenCal gives you a free scheduling link that shows your open times across Google, Microsoft and iCloud calendars
 - [When2meet](https://www.when2meet.com/) - Free drag-to-select availability grid for finding group meeting times
 - [Rallly](https://rallly.co/) - Open-source scheduling tool for finding the best date for group meetings
 
