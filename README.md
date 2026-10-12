@@ -118,6 +118,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Zoom](zoom.us) - modern enterprise video communications
 - [Qingque Meeting](https://www.qingque.cn/meet/) - out-of-the-box cloud meeting, dedicated to providing services for a new generation of knowledge workers, helping individuals and teams improve collaboration efficiency and greatly liberating productive forces.
 - [Cloud Communication](https://www.263.net/) - Video Conference
+- [Airtape](https://airtape.co/) - Browser-based remote recording studio; every participant is recorded locally on a separate audio and video track.
 
 ## Cloud Services
 
