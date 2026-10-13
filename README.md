@@ -288,6 +288,8 @@ an awesome list of free SaaS (software as a service) for you.
 - [When2meet](https://www.when2meet.com/) - Free drag-to-select availability grid for finding group meeting times
 - [Rallly](https://rallly.co/) - Open-source scheduling tool for finding the best date for group meetings
 
+- [ttakPick](https://ttakpick.com/) - Free group scheduling, voting, and condition-based comparison to help groups decide together, no login required.
+
 # License
 
 [MIT](https://opensource.org/licenses/MIT)
