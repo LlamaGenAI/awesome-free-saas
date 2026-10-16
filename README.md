@@ -228,6 +228,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Mingdao](https://www.mingdao.com/) - APass platform, 0 code
 
 ## Developer Service
+- [CurlShot](https://curlshot.com) - Screenshot API with a free plan (100 screenshots/month, no card): URL, HTML or Markdown to PNG, PDF or video
 - [FreeKit](https://freekit.dev) - Free instant HTML hosting API with Azure Blob Storage, no API key required
 - [Faktuj](https://faktuj.pl) - Free Polish VAT invoice generator with PDF export
 - [LinkMeta](https://linkmeta.dev) - Free URL metadata extraction API for titles, descriptions, and Open Graph tags
