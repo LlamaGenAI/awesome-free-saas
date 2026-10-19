@@ -51,6 +51,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Open Deep Research](https://github.com/PuppyAgent/OpenDeepResearch) - Open Source Deep Research & Wide Research
 - [VisaCanvas](https://visacanvas.com/) - Free AI-powered EB1A/NIW immigration eligibility assessment with 10-criteria analysis
 - [Notah.ai](https://notah.ai) - AI-powered meeting notes, transcription, and action items, an AI Executive Assistant.
+- [Vocal Separator](https://vocalseparator.com/) - Online vocal/instrumental and four-stem separation with WAV downloads, a limited anonymous free allowance, and optional prepaid minutes.
 - [Puppyone](https://www.puppyone.ai) - Free cloud file system built for AI agents. Native MCP, file-level security, version history, 15+ OAuth connectors (Notion/GitHub/Drive/Linear). No credit card required. Open source (Apache 2.0) with Docker self-host option.
 
 
