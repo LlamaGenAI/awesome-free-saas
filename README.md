@@ -233,6 +233,9 @@ an awesome list of free SaaS (software as a service) for you.
 - [LinkMeta](https://linkmeta.dev) - Free URL metadata extraction API for titles, descriptions, and Open Graph tags
 - [LinkShrink](https://linkshrink.dev) - Free privacy-first URL shortener API, no tracking or API keys
 - [OGForge](https://ogforge.dev) - Free Open Graph image generator API for social media previews
+- [ScreenshotRun](https://screenshotrun.com) - Free screenshot API for developers. Capture webpages as PNG, JPEG, WebP, or PDF via REST API
+- [WatchCron](https://watchcron.com) - Free cron job monitoring. Alerts when scheduled tasks fail or stop running
+- [SnapshotArchive](https://snapshotarchive.com) - Free website screenshot archiving with visual change detection
 - [PageShot](https://pageshot.site) - Free screenshot and webpage capture API powered by Playwright
 - [PDFSpark](https://pdfspark.dev) - Free HTML/URL to PDF conversion API built with Playwright
 - [QRMint](https://qrmint.dev) - Free styled QR code generator and API with customizable colors and logos
