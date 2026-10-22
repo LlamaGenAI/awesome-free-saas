@@ -161,6 +161,7 @@ an awesome list of free SaaS (software as a service) for you.
 
 - [Magnetic Engine](https://e.kuaishou.com/) - Kuaishou marketing platform, making brands more attractive
 - [SocialBu](https://socialbu.com/) - AI-powered social media management platform for scheduling, publishing, monitoring, and automating across multiple platforms
+- [JuzPost](https://www.juzpost.com/) - AI-first social media scheduler for 11 networks with an MCP server; free plan with 2 accounts and 15 queued posts
 - [Weimob](http://www.weimob.com/) - Smart business service provider
 - [GEOScore](https://geoscoreai.com/) - Free AI search visibility scanner checking 11 GEO signals including robots.txt, llms.txt, structured data, and citation readiness. Includes free AI Robots.txt Generator and AI Crawler Access Checker.
 
