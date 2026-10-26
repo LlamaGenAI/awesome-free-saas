@@ -236,6 +236,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [PageShot](https://pageshot.site) - Free screenshot and webpage capture API powered by Playwright
 - [PDFSpark](https://pdfspark.dev) - Free HTML/URL to PDF conversion API built with Playwright
 - [QRMint](https://qrmint.dev) - Free styled QR code generator and API with customizable colors and logos
+- [WishKit](https://www.wishkit.io) - Free in-app feature request board for iOS and web apps where users submit and vote on features
 
 ## Form
 
