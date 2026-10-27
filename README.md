@@ -122,6 +122,7 @@ an awesome list of free SaaS (software as a service) for you.
 ## Cloud Services
 
 - [ucloud](http://ucloud.cn/) - UCloud is a well-known neutral cloud computing service provider in China, focusing on providing reliable enterprise-level cloud services
+- [Light Cloud](https://light-cloud.com) - Hosting platform for static sites, containers and APIs from GitHub, GitLab or Bitbucket. Free plan with no credit card: unlimited static sites, 3 server apps and $1 of usage each month
 
 ## Data Analysis
 - [Open Deep Research](https://github.com/PuppyAgent/OpenDeepResearch) - Open Source Deep Research & Wide Research 
