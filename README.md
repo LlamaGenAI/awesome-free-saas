@@ -233,6 +233,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [LinkMeta](https://linkmeta.dev) - Free URL metadata extraction API for titles, descriptions, and Open Graph tags
 - [LinkShrink](https://linkshrink.dev) - Free privacy-first URL shortener API, no tracking or API keys
 - [OGForge](https://ogforge.dev) - Free Open Graph image generator API for social media previews
+- [Open Graph and Social Card Checker](https://radarmakers.com/tools/social-card-preview) - Free checker for the Open Graph and social card tags of a page and its share image
 - [PageShot](https://pageshot.site) - Free screenshot and webpage capture API powered by Playwright
 - [PDFSpark](https://pdfspark.dev) - Free HTML/URL to PDF conversion API built with Playwright
 - [QRMint](https://qrmint.dev) - Free styled QR code generator and API with customizable colors and logos
