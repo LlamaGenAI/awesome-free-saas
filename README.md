@@ -45,6 +45,9 @@ an awesome list of free SaaS (software as a service) for you.
 - [ChatGPT](https://chat.openai.com/) - ChatGPT is a free-to-use AI system
 - [LlamaGen.Ai](https://llamagen.ai/) - LlamaGen.Ai is an ultimate AI-Driven ACG Tool, Create Anime Art Online for Free and Collaborate in a Global Anime Art Community.
 - [midjourney](https://midjourney.com/) - where thousands collaborate to create new worlds, fantastic characters, and unique imagery from short text descriptions
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 - [Woopicx](https://woopicx.com/) - AI-powered image search engine with 100,000+ free icons, illustrations, and 3D assets across 80+ categories.
 - [perplexity](https://www.perplexity.ai/) - Perplexity is your AI-powered Swiss Army Knife for information discovery and curiosity.
 - [openrouter](https://openrouter.ai/) - Free Model and Get API For Unlimited token free
