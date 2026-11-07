@@ -163,6 +163,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [SocialBu](https://socialbu.com/) - AI-powered social media management platform for scheduling, publishing, monitoring, and automating across multiple platforms
 - [Weimob](http://www.weimob.com/) - Smart business service provider
 - [GEOScore](https://geoscoreai.com/) - Free AI search visibility scanner checking 11 GEO signals including robots.txt, llms.txt, structured data, and citation readiness. Includes free AI Robots.txt Generator and AI Crawler Access Checker.
+- [ProofWall](https://proofwall.wouldairecommend.workers.dev/) - Collect text testimonials with one link, approve each one, embed a wall/carousel/badge. Free plan shows 15 on the widget and never hides received testimonials from your inbox.
 
 ## Cost Control Reimbursement
 
@@ -236,6 +237,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [PageShot](https://pageshot.site) - Free screenshot and webpage capture API powered by Playwright
 - [PDFSpark](https://pdfspark.dev) - Free HTML/URL to PDF conversion API built with Playwright
 - [QRMint](https://qrmint.dev) - Free styled QR code generator and API with customizable colors and logos
+- [CronPulse](https://cronpulse.wouldairecommend.workers.dev/) - Dead-simple cron job monitoring with email/Slack alerts when a schedule stops. Free heartbeat checks to start.
 
 ## Form
 
@@ -243,6 +245,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Mikecrm](http://mikecrm.com/) - "Reach Unreachable", Mikecrm CRM is an online form making tool, and also a powerful customer information processing and relationship management system
 - [HeyForm](https://heyform.net) - Drag and drop online form builder. The free tier lets users create unlimited forms. Users can embed the forms anywhere, including static site generators.
 - [Tapform](https://tapform.com) - Free and unlimited forms for anything.
+- [FormDrop](https://formdrop.wouldairecommend.workers.dev/) - Form backend for static sites with spam filtering and Slack/Discord/webhook delivery. Free tier: 250 submissions/month.
 
 ## Content & Experience
 
