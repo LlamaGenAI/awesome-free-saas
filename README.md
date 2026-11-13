@@ -278,6 +278,7 @@ an awesome list of free SaaS (software as a service) for you.
 
 ## API
 - [eolink](https://www.eolinker.com/) A free API collaboration platform designed for developers
+- [Datacircle](https://datacircle.dev) - Find the best GTM APIs. Our API is open, with no key, at [api.datacircle.dev/v1](https://api.datacircle.dev/v1).
 
 ## Automation
 - [automate](https://automate.io/) Connect your cloud apps. Automate work.
