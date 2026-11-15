@@ -52,6 +52,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [VisaCanvas](https://visacanvas.com/) - Free AI-powered EB1A/NIW immigration eligibility assessment with 10-criteria analysis
 - [Notah.ai](https://notah.ai) - AI-powered meeting notes, transcription, and action items, an AI Executive Assistant.
 - [Puppyone](https://www.puppyone.ai) - Free cloud file system built for AI agents. Native MCP, file-level security, version history, 15+ OAuth connectors (Notion/GitHub/Drive/Linear). No credit card required. Open source (Apache 2.0) with Docker self-host option.
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Free remote MCP server for searching 2,200+ North American live-music venues, drive-time routing, and band booking contacts.
 
 
 ## Prompt 
