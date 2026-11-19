@@ -101,6 +101,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Fanxiang Sales](http://fxiaoke.com/) - CRM SaaS, Connected CRM Quality Service Provider
 - [Sales Easy](https://www.xiaoshouyi.com/) - CRM SaaS
 - [zoho](https://www.zoho.com/one/) - Unique and powerful suite of software to run your entire business
+- [SealReply](https://www.sealreply.com/) - Live chat for websites with a live visitors list, lead status and follow-up reminders. Free plan: 1 agent, 1 website, 300 chats a month
 
 
 ## HR
