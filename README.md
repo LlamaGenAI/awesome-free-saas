@@ -122,6 +122,7 @@ an awesome list of free SaaS (software as a service) for you.
 ## Cloud Services
 
 - [ucloud](http://ucloud.cn/) - UCloud is a well-known neutral cloud computing service provider in China, focusing on providing reliable enterprise-level cloud services
+- [NodeRings](https://noderings.com/) - Marketplace and console to discover, deploy, and manage compute across independent hosting providers. Community plan for providers is free forever.
 
 ## Data Analysis
 - [Open Deep Research](https://github.com/PuppyAgent/OpenDeepResearch) - Open Source Deep Research & Wide Research 
