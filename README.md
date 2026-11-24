@@ -132,6 +132,7 @@ an awesome list of free SaaS (software as a service) for you.
 - - [Crawlbase](https://crawlbase.com/) - Crawlbase: Unleash the power of intelligent web crawling. Seamlessly extract, analyze, and organize data for informed decision-making. Your gateway to efficient and precise web scraping. Enjoy you frist 1000 free requests
 - [Financial Data](https://financialdata.net/) - Get and analyze stock market and financial data (API, Data Viewer, Excel Export).
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Open-source, local-first AI visibility dashboard. Track brand mentions across ChatGPT, Perplexity, Gemini, Copilot, Google AI Overview, and Grok. BYOK, self-hosted, free.
+- [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp) - 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts.
 
 ## Feature Flags
 -  [launchdarkly](https://launchdarkly.com/) - One platform for developers to ship with confidence—combining feature flags, observability, experimentation, analytics, and AI engineering to de-risk every release and reduce outages.
