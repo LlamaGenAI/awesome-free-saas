@@ -252,6 +252,8 @@ an awesome list of free SaaS (software as a service) for you.
 
 
 
+- [StagePeek](https://stagepeek.live/) - Interactive 2D seating charts and 3D concert stage-view simulator covering 201 global venues with free no-login browsing.
+
 ## BI
 - [PowerBI](https://powerbi.microsoft.com/zh-cn/) - Connect to and visualize any data using the unified, scalable platform for self-service and enterprise business intelligence (BI) that's easy to use and helps you gain deeper data insight
 - [Qlikview](https://www.qlik.com/) -Turn raw data into remarkable outcomes with end-to-end, multi-cloud data integration and analytics solutions. Close the gaps between data, insights, and action.
