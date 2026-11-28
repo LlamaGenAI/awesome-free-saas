@@ -82,6 +82,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [Evernote](https://yinxiang.com/) - Make life more orderly, work more efficient, and collaborate more conveniently
 - [evernote](evernote.com/) - a powerful tool that can help executives, entrepreneurs and creative people capture and arrange their ideas.
 - [Dataku](https://dataku.ai) - Transform Unstructured doc To Structured Data.
+- [One Pager Template](https://onepagertemplate.com/) - Free browser builder and downloadable templates for executive and startup one-pagers.
 
 ## Design
 
@@ -95,6 +96,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [CoDesign](https://codesign.qq.com/) - Tencent CoDesign, a one-stop design collaboration platform
 - [Mockplus](https://www.mockplus.cn/) - Whole process design, prototype design
 -
+- [YouTube Thumbnail Tester](https://youtubethumbnailtester.com/) - Free browser previewer to compare YouTube thumbnails and titles in real feed layouts before publishing.
 
 ## CRM
 
@@ -110,7 +112,7 @@ an awesome list of free SaaS (software as a service) for you.
 - [MokaHR](http://mokahr.com/) - Make technology more humane, make recruitment more intelligent, and an intelligent recruitment management system that HR prefers to use
 - [Qingque Interview](https://interview.qingque.cn/) - Qingque Interview carries the best practices in Kuaishou's online interview process and provides organizations with a set of stable and easy-to-use online interview tools.
 - [Brighten](https://hellobrighten.com/) - AI-powered employee recognition and onboarding platform for small businesses. Features AI-generated recognition suggestions, peer-to-peer kudos, and automated onboarding checklists. Free tier available.
-
+- [AI Tool for HR](https://aitoolforhr.com/) - Free HR workflow tools and AI comparison directory for recruiting, onboarding, and people ops.
 
 ## Video Conference
 
